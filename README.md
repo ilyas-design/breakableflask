@@ -8,6 +8,7 @@ This can be used to test out and learn exploitation of common web application vu
 Originally written because I wanted a very simple, single file vulnerable app that I could quickly run up to perform exploitation checks against. 
 
 At the moment, the following vulnerabilities are present:
+
 * Python code injection
 * Operating System command injection
 * Python deserialisation of arbitrary data (pickle)
